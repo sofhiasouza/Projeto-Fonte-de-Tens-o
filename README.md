@@ -46,7 +46,7 @@ O esquemático aberto deve ser semelhante a este:
 
 <img src="https://imgur.com/SwUxT6b.png" alt="Esquemático Eagle" width="1200" />
 
-# Esquemático do Circuito no software CAD Eagle:
+# PCB do Circuito no software CAD Eagle:
  - Obtenha o software [Eagle](https://www.autodesk.com/products/eagle/blog/how-to-install-autodesk-eagle-on-windows-mac-and-linux/)
  - Vá em `File > Open > Board...` e selecione o arquivo `./EagleFiles/fonte_simoes.brd` presente neste repositório.
 
