@@ -54,3 +54,7 @@ O PCB aberto deve ser semelhante a este:
 
 <img src="https://i.imgur.com/cCj0ZJz.png" alt="Esquemático Eagle" width="1200" />
 
+
+
+# Licença
+Este projeto é livre; você pode redistribuí-lo e/ou modificá-lo sobre os termos da GNU General Public License publicada pela Free Software Foundation; versão 3 ou superior.
