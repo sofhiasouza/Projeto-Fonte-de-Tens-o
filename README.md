@@ -52,5 +52,5 @@ O esquemático aberto deve ser semelhante a este:
 
 O PCB aberto deve ser semelhante a este:
 
-<img src="https://imgur.com/bpWLxhP.png" alt="Esquemático Eagle" width="1200" />
+<img src="https://i.imgur.com/cCj0ZJz.png" alt="Esquemático Eagle" width="1200" />
 
