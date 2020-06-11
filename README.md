@@ -31,7 +31,7 @@ Docente responsável:
 
 # Simulação do Circuito no simulador Falstad:
 
-- Acesse o similador [Falstad](https://falstad.com/circuit/circuitjs.html)
+- Acesse o simulador [Falstad](https://falstad.com/circuit/circuitjs.html)
 - Vá em `File > Import from Text` e cole o conteúdo do arquivo `./circuitoFalstad.txt` presente neste repositório.
 
 A simulação aberta deve ser semelhante a este:
