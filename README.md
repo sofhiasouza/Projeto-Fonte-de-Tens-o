@@ -17,7 +17,7 @@ Docente responsável:
 
 # Vídeo de apresentação do projeto:
 
-[![Vídeo de apresentação](https://img.youtube.com/vi/UUXbKyecGbc/0.jpg)](https://www.youtube.com/watch?v=UUXbKyecGbc)
+[![Vídeo de apresentação](https://img.youtube.com/vi/vGMtHB2vUWk/0.jpg)](https://www.youtube.com/watch?v=vGMtHB2vUWk)
 
 # Lista de componentes do circuito:
 
