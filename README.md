@@ -1,10 +1,10 @@
 # Projeto Fonte de Tensão - Eletrônica para Computação - BCC 020 - ICMC- USP
 
 Grupo:
- - Ana Vitória Gouvea
- - Eduardo Amaral
- - Matheus Luis Oliveira
- - Sofhia de Souza
+ - [Ana Vitória Gouvea](mailto:anavitoria_gouvea@usp.br)
+ - [Eduardo Amaral](https://rolimans.dev)
+ - [Matheus Luis Oliveira](mailto:matheuslos@usp.br)
+ - [Sofhia de Souza](mailto:sofhiasouza@usp.br)
 
 Turma: 
     BCC 020
@@ -14,6 +14,10 @@ Disciplina:
 
 Docente responsável:
     Eduardo do Valle Simões
+
+# Vídeo de apresentação do projeto:
+
+[![Vídeo de apresentação](https://img.youtube.com/vi/UUXbKyecGbc/0.jpg)](https://www.youtube.com/watch?v=UUXbKyecGbc)
 
 # Lista de componentes do circuito:
 
@@ -46,7 +50,7 @@ O esquemático aberto deve ser semelhante a este:
 
 <img src="https://imgur.com/SwUxT6b.png" alt="Esquemático Eagle" width="1200" />
 
-# PCB do Circuito no software CAD Eagle:
+# PCB   do Circuito no software CAD Eagle:
  - Obtenha o software [Eagle](https://www.autodesk.com/products/eagle/blog/how-to-install-autodesk-eagle-on-windows-mac-and-linux/)
  - Vá em `File > Open > Board...` e selecione o arquivo `./EagleFiles/fonte_simoes.brd` presente neste repositório.
 
