@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /home/sofhia/fonte_simoes.brd
+Job           : /home/sofhia/Esquema da Fonte/fonte_simoes.brd
 
-Start at      : 16:08:33 (10/06/20)
-End at        : 16:08:35 (10/06/20)
+Start at      : 18:24:33 (02/07/20)
+End at        : 18:24:35 (02/07/20)
 Elapsed time  : 00:00:01
 
-Signals       :    11   RoutingGrid: 40 mil  Layers: 1
-Connections   :    19   predefined:  19 ( 0 Vias )
+Signals       :     9   RoutingGrid: 25 mil  Layers: 1
+Connections   :    17   predefined:  4 ( 0 Vias )
 
-Router memory :   18656
+Router memory :   44220
 
-Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
+Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01  00:00:00
-Number of Ripups  :         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0
+Time per pass     :  00:00:00  00:00:01  00:00:00  00:00:00  00:00:00  00:00:00
+Number of Ripups  :         0        27         0         0         0         0
+max. Level        :         0         2         0         0         0         0
+max. Total        :         0         5         0         0         0         0
 
-Routed            :         0         0         0         0         0         0
+Routed            :         1        13        13        13        13        13
 Vias              :         0         0         0         0         0         0
-Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Resolution        :    29.4 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
