@@ -48,7 +48,7 @@ A simulação aberta deve ser semelhante a esta:
 
 O esquemático aberto deve ser semelhante a este:
 
-<img src="https://imgur.com/5YpVdrX.png" alt="Esquemático Eagle" width="1200" />
+<img src="https://imgur.com/khmmERn.png" alt="Esquemático Eagle" width="1200" />
 
 # PCB   do Circuito no software CAD Eagle:
  - Obtenha o software [Eagle](https://www.autodesk.com/products/eagle/blog/how-to-install-autodesk-eagle-on-windows-mac-and-linux/)
@@ -56,7 +56,7 @@ O esquemático aberto deve ser semelhante a este:
 
 O PCB aberto deve ser semelhante a este:
 
-<img src="https://imgur.com/khmmERn.png" alt="Esquemático Eagle" width="1200" />
+<img src="https://imgur.com/5YpVdrX.png" alt="Esquemático Eagle" width="1200" />
 
 
 
